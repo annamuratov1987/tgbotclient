@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 	"net/url"
-	"tgbotclient/internal/domain"
+	"tgbotclient/pkg/domain"
 )
 
 var (

@@ -1,6 +1,6 @@
 package tgbotclient
 
-import "tgbotclient/internal/domain"
+import "tgbotclient/pkg/domain"
 
 type Response[ResultType any] struct {
 	Ok          bool       `json:"ok"`
