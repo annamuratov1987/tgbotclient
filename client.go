@@ -3,10 +3,10 @@ package tgbotclient
 import (
 	"encoding/json"
 	"errors"
+	"github.com/annamuratov1987/tgbotclient/pkg/domain"
 	"io"
 	"net/http"
 	"net/url"
-	"tgbotclient/pkg/domain"
 )
 
 var (
