@@ -1,3 +1,3 @@
-module github.com/annamuratov1987/tgbotclient
+module tgbotclient
 
 go 1.18
